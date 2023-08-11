@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Kumar",
+      "emailId": "kumar@gmail.com",
+      "phoneNumber": "750489754",
+      "city": "Chennai",
+      "id": 1
+    },
+    {
+      "name": "Sam",
+      "city": "Madurai",
+      "emailId": "sam@gmail.com",
+      "phoneNumber": "789654123",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Alex",
+      "city": "Pondicherry",
+      "emailId": "alex@gmail.com",
+      "phoneNumber": "789654123",
+      "id": 2
+    },
+    {
+      "name": "Babu",
+      "city": "Madurai",
+      "emailId": "babu@gmail.com",
+      "phoneNumber": "789657898",
+      "id": 3
+    },
+    {
+      "name": "Sam",
+      "city": "Chennai",
+      "emailId": "sam@gmail.com",
+      "phoneNumber": "0123456789",
+      "id": 4
+    },
+    {
+      "name": "Prabhu",
+      "city": "Chennai",
+      "emailId": "prabhu@gmail.com",
+      "phoneNumber": "0123456789",
+      "id": 5
+    },
+    {
+      "name": "Kumar",
+      "city": "Chennai",
+      "emailId": "kumar@gmail.com",
+      "phoneNumber": "9876543210",
+      "id": 7
+    },
+    {
+      "name": "Hari",
+      "city": "Madurai",
+      "emailId": "hari@gmail.com",
+      "phoneNumber": "9878654321",
+      "id": 8
+    }
+  ]
+}
