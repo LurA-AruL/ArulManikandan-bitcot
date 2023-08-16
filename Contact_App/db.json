@@ -1,0 +1,46 @@
+{
+  "user_Data": [
+    {
+      "name": "Alex",
+      "email": "alex@gmail.com",
+      "phoNumber": "987123456",
+      "address": "Madurai",
+      "id": 2
+    },
+    {
+      "name": "Bose",
+      "email": "bose@gmail.com",
+      "phoNumber": "7094030845",
+      "address": "Chennai",
+      "id": 3
+    },
+    {
+      "name": "John",
+      "email": "john@gmail.com",
+      "phoNumber": "7897897890",
+      "address": "Pondicherrry",
+      "id": 4
+    },
+    {
+      "name": "saran",
+      "email": "saran@gmail.com",
+      "phoNumber": "9876543210",
+      "address": "Cuddalore",
+      "id": 6
+    },
+    {
+      "name": "Russel",
+      "email": "russel@gmail.com",
+      "phoNumber": "982134567",
+      "address": "Banglore",
+      "id": 7
+    },
+    {
+      "name": "Raju",
+      "email": "raju@gmail.com",
+      "phoNumber": "7897897891",
+      "address": "Coimbatore",
+      "id": 8
+    }
+  ]
+}

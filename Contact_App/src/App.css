@@ -1,0 +1,21 @@
+:root{
+    --userNameFont:11px;
+}
+
+.CreateIcon:hover{
+    cursor: pointer;
+    color: rgb(236, 149, 36);
+}
+.CreateIcon-eye:hover{
+    cursor: pointer;
+    color: rgb(42, 24, 244);
+    
+}
+.CreateIcon-trash:hover{
+    cursor: pointer;
+    color: rgb(251, 6, 6);
+}
+.userNameFont{
+   font-size:  var(--userNameFont);
+   font-weight: 600;
+}
